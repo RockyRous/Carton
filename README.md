@@ -1,2 +1,1 @@
-# Carton
-Audio and image editor in a web interface
+use ``app/main.py``
