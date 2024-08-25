@@ -1,4 +1,6 @@
 # Тут будут инструменты работы с аудио
+# todo make async
+
 class AudioFile():
     pass
     # валидация аудио
